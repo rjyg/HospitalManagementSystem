@@ -1,2 +1,0 @@
-5,1234,Oscar,Piastri,rebeccagong98@gmail.com,0487654321,43,Wallaby Way,Sydney,NSW,3
-6,1234,Carlos,Sainz,rebeccagong98@gmail.com,0487654321,44,Wallaby Way,Sydney,NSW,4

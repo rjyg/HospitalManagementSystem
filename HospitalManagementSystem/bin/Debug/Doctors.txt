@@ -1,2 +1,0 @@
-3,1234,Lewis,Hamilton,rebeccagong98@gmail.com,0412345678,41,Wallaby Way,Sydney,NSW
-4,1234,Charles,Leclerc,rebeccagong98@gmail.com,0497987552,42,Wallaby Way,Sydney,NSW
